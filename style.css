@@ -1,0 +1,46 @@
+body{
+    font-family: 'Bungee Spice', cursive;
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.bg-black{
+    background-color:black;
+}
+
+#image-logo{
+    width: 130px;
+    height: 70px;
+}
+.about-secion p{
+font-size: 16px;
+line-height: 28px;
+}
+.custom-font h3{
+    font-size: 40px;
+}
+#img-1{
+    width:400px;
+}
+#img-2{
+    width:450px;
+    height:300px;
+}
+#img-3{
+    width:420px;
+    height: 300px;
+}
+#img-4{
+    width:450px;
+    height: 300px;
+}
+.contact-section{
+    background-image:url('./back-new1.jpg');background-size: 100%;background-repeat: no-repeat;
+   
+    
+
+}
+
+.servce-box{
+    font-size: 24px;
+}
